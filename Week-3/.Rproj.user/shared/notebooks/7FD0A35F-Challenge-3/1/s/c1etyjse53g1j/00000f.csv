@@ -1,0 +1,13 @@
+"0","vector1 <- c(13,52,24,23,7)
+vector2 <- c(2,67,12,33,4)
+comparison <- (vector1 > vector2)
+comparison
+"
+"1","[1]"
+"1","  TRUE"
+"1"," FALSE"
+"1","  TRUE"
+"1"," FALSE"
+"1","  TRUE"
+"1","
+"

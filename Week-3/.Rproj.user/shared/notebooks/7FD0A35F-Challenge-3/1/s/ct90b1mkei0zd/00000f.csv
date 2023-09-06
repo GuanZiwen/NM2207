@@ -1,0 +1,8 @@
+"0","# Enter code here"
+"0","temperatures <- c(35,70,95,15,93,99,23)"
+"0","hot_days <- temperatures > 90"
+"0","length(hot_days[hot_days == TRUE])"
+"1","[1]"
+"1"," 3"
+"1","
+"
