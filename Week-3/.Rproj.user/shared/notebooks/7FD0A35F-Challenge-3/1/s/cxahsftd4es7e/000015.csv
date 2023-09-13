@@ -1,0 +1,8 @@
+"0","words = c(""apple"", ""banana"", ""cherry"", ""apple"")
+which(words ==""apple"")
+"
+"1","[1]"
+"1"," 1"
+"1"," 4"
+"1","
+"

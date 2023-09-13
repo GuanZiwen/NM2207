@@ -1,0 +1,28 @@
+---
+title: "Challenge-1"
+author: "GZW"
+date: "2023-08-16"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Guan Ziwen
+
+This is a self intro document. I am a year 3 Architecture student. I am interested in photography and videography. I am also working as a freelancer. Here are some of my past works. <https://drive.google.com/drive/folders/1IkJJnFz1ieYjXLNQDLtEII0QW9yaeofY?usp=drive_link>.
+
+
+```{r, out.height= "350px",out.width= "500px",warning = F, echo=F,eval=TRUE,fig.cap="This is my game character"}
+knitr::include_graphics("C:/Users/Zzz/Pictures/BnS/Screenshot_160131_001.jpg") 
+```
+
+
+Hope you enjoyed your day.
+
+```{r, out.height= "350px",out.width= "500px",warning = F, echo=F,eval=TRUE,fig.cap="This is my screenshot"}
+knitr::include_graphics("D:/NM2207/Week-1/Screenshot 2023-08-16 194021.png") 
+```
