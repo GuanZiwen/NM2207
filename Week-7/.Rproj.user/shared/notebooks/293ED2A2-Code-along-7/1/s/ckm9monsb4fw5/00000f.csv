@@ -1,0 +1,4 @@
+"0","#Histogram and binwidth = 1000"
+"0","ggplot(loans) + "
+"0","  aes(x = loan_amount) +"
+"0","  geom_histogram(binwidth = 1000)"

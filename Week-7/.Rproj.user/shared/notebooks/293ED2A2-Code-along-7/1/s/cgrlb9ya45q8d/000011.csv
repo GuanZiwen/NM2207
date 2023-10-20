@@ -1,0 +1,8 @@
+"0","#Ridge plots"
+"0","library(ggridges)"
+"0","ggplot(loans, "
+"0","       aes(x = loan_amount,"
+"0","           y = grade, "
+"0","           fill = grade, "
+"0","           color = grade)) +"
+"0","  geom_density_ridges(alpha = 0.5)"

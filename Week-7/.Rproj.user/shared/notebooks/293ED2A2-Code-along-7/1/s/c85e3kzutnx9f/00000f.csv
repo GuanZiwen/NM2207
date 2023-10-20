@@ -1,0 +1,4 @@
+"0","#Box plot and outliers"
+"0","ggplot(loans, "
+"0","       aes(x = annual_income)) +"
+"0","  geom_boxplot()"

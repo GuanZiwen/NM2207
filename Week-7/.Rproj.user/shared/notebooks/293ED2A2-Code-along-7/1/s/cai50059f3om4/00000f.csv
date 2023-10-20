@@ -1,0 +1,4 @@
+"0","#Density plots and adjusting bandwidth"
+"0","ggplot(loans, "
+"0","       aes(x = loan_amount)) +"
+"0","  geom_density(adjust = 1) #defult"

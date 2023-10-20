@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Lord of the Ring"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About me
+      - about.qmd
+      
+  sidebar:
+    style: "docked"
+    search: true
+    contents: 
+      - section: "Content page"
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+editor: visual
+

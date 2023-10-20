@@ -1,0 +1,8 @@
+"0","#Customizing box plots"
+"0","ggplot(loans, "
+"0","       aes(x = interest_rate)) +"
+"0","  geom_boxplot() +"
+"0","  labs(x = ""Interest rate (%)"","
+"0","       y = NULL,"
+"0","       title = ""Interest rates of Lending Club loans"") +"
+"0","  theme( axis.ticks.y = element_blank(), axis.text.y = element_blank() )"

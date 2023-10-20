@@ -1,0 +1,8 @@
+"0","#Plot"
+"0",""
+"0","ggplot(tidydata,"
+"0","       aes(x = week,"
+"0","           y = rank,"
+"0","           group = track))+"
+"0","geom_line()"
+"0",""

@@ -1,0 +1,50 @@
+---
+title: "Challenge-9"
+author: "GZW"
+date: "2023-10-18"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<br>
+#Challenge 1
+```{r, eval=T,echo=TRUE}
+library(tidyverse)
+billboard
+
+tidydata <- billboard %>%
+  pivot_longer(
+    cols = starts_with("wk"),
+    names_to ="week",
+    values_to ="rank",
+    values_drop_na = TRUE) %>%
+  mutate(week = parse_number(week))
+tidydata
+
+```
+<br>
+```{r, eval=T,echo=TRUE}
+#Plot
+
+ggplot(tidydata,
+       aes(x = week,
+           y = rank,
+           group = track))+
+geom_line()
+
+```
+<br>
+#Challenge 2
+```{r, eval=T,echo=TRUE}
+cms_patient_experience
+tidy_cms <- cms_patient_experience %>%
+  pivot_wider(
+    id_cols = starts_with("org"),
+    names_from="measure_cd",
+    values_from="prf_rate")
+tidy_cms
+```

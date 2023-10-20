@@ -1,0 +1,24 @@
+---
+title: "Week-8"
+author: "GZW"
+date: "2023-10-18"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Week 8 Challenge
+
+I have renamed the sliders and title. Inserted a new image to the main panel. Created paragraphs of different styles.
+
+```{r, eval=T,echo=TRUE}
+library(shiny)
+#runApp("App-5")
+knitr::include_graphics("screenshot.png")
+
+```
+
