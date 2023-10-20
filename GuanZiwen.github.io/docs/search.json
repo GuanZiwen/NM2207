@@ -4,6 +4,13 @@
     "href": "index.html",
     "title": "Guan Ziwen",
     "section": "",
-    "text": "Welcome to my page. I am Ziwen, a student from NUS. I am currently working on a project to develop a data story. As I am a fan of “Lord of the Rings”, I will be working on the movies’ data content. I have curated some data sources from Kaggle about the movies’ achievements and character information. Also, I might have to curate more data by scraping information from the Lord of the Rings Wiki page.\nTo access my GitHub page visit https://quarto.org/docs/websites."
+    "text": "Welcome to my page. I am Ziwen, a student from NUS. I am currently working on a project to develop a data story. As I am a fan of “Lord of the Rings”, I will be working on the movies’ data content. I have curated some data sources from Kaggle about the movies’ achievements and character information. Also, I might have to curate more data by scraping information from the Lord of the Rings Wiki page.\nTo access my GitHub page visit https://GuanZiwen.github.io."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
