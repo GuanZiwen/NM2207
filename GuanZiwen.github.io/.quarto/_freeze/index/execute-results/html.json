@@ -1,7 +1,7 @@
 {
-  "hash": "1e0b316000b7fb94f25f828f3634851d",
+  "hash": "a27e35ac6f9de0d4db6a53f9d8bcde8a",
   "result": {
-    "markdown": "---\ntitle: \"Guan Ziwen\"\n---\n\n\nWelcome to my page. I am Ziwen, a student from NUS. I am currently working on a project to develop a data story. As I am a fan of \"Lord of the Rings\", I will be working on the movies' data content. I have curated some data sources from Kaggle about the movies' achievements and character information. Also, I might have to curate more data by scraping information from the Lord of the Rings Wiki page.\n\nTo access my GitHub page visit <https://GuanZiwen.github.io>.\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](lotr.png){width=100%}\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Guan Ziwen\"\n---\n\n\nWelcome to my page. I am Ziwen, a student from NUS. I am currently working on a project to develop a data story. As I am a fan of \"Lord of the Rings\", I will be working on the movies' data content. I have curated some data sources from Kaggle about the movies' achievements and character information. Also, I might have to curate more data by scraping information from the Lord of the Rings Wiki page.\n\nTo access my GitHub page visit <https://guanziwen.github.io/>.\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](lotr.png){width=100%}\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
