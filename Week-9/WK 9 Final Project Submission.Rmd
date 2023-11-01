@@ -1,0 +1,16 @@
+---
+title: "WK 9 Final Project"
+author: "GZW"
+date: "2023-10-18"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Wk 9 Final Project Submission
+
+1) As I am a fan of \"Lord of the Rings\", I will be working on the movies\' data content.
+
+2) I have curated some data sources from Kaggle about the movies\' achievements and character information.
