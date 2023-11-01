@@ -1,0 +1,33 @@
+---
+title: "WK 10 Diary Entry"
+author: "GZW"
+date: "2023-11-25"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Week-9
+
+1) As I am a fan of \"Lord of the Rings\", I will be working on the movies\' data content.
+
+2) I have curated some data sources from Kaggle about the movies\' achievements and character information.
+
+## Week-10
+
+1) What kind of society is portrayed in the LOTR trilogy?
+
+2) 
+It is important to study the society constitution to understand the mega-environment that the characters are in, therefore one can appreciate the plot better. 
+
+Also, by studying the societal make-up, one can better represent the LOTR work in other format, such as theatre art or musicals.
+
+Lastly, creators can draw inspiration from LOTR societal features to create more creative projects.
+
+3)
+Columns indicating the race,life-expectancy, sex, etc will help to answer the question.
+
+4) 
+The life-expectancy needs to be calculated from the birth date and the death date, which were recorded in fictional timeline, hence data tidying is heavily required. Some data were not provided in csv files, hence some conversion is required as well.
